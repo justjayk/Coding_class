@@ -59,3 +59,6 @@ Ex: [i**2 for i in [1, 2, 3, 4]] ---> [1, 4, 9, 16]
 # Exercise
 nat_nums = range(20)
 odd_nums = [i for i in nat_nums if i%2 == 1]
+
+
+# Notes
